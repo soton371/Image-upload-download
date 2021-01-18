@@ -1,0 +1,19 @@
+@media (max-width:767px){
+    .header{
+        background-position: center;
+    }
+    form h2{
+        font-size: 40px;
+    }
+    input[type="file"]{
+        width: 50%;
+    }
+    .img_box a div{
+        height: 200px;
+    }
+}
+@media (max-width:445px){
+    input[type="file"]{
+        width: 62%;
+    }
+}
